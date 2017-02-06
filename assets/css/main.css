@@ -1411,7 +1411,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #FF8000;
+		color: #ff9200;
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -1458,7 +1458,7 @@
 		}
 
 	strong, b {
-		color: #fff;
+		color: #FF00FF;
 		font-weight: 600;
 	}
 
