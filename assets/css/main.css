@@ -1458,7 +1458,7 @@
 		}
 
 	strong, b {
-		color: #FF00FF;
+		color: #B44AFE;
 		font-weight: 600;
 	}
 
@@ -1471,7 +1471,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #FF00FF;
+		color: #B44AFE;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -1541,7 +1541,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #FF00FF;
+		border-bottom: solid 2px #B44AFE;
 		margin: 3em 0;
 	}
 
@@ -1550,7 +1550,7 @@
 		}
 
 	blockquote {
-		border-left: solid 4px #FF00FF;
+		border-left: solid 4px #B44AFE;
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -1619,7 +1619,7 @@
 	}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
-			border-bottom: solid 2px #FF00FF;
+			border-bottom: solid 2px #B44AFE;
 			display: inline-block;
 			padding-bottom: 1em;
 			position: relative;
@@ -1632,7 +1632,7 @@
 			}
 
 		header.major p {
-			color: #FF00FF;
+			color: #B44AFE;
 			top: 0;
 		}
 
@@ -1659,7 +1659,7 @@
 	}
 
 	label {
-		color: #FF00FF;
+		color: #B44AFE;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
@@ -1722,7 +1722,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			color: #FF00FF;
+			color: #B44AFE;
 			content: '\f078';
 			display: block;
 			height: 2.75em;
@@ -1766,7 +1766,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #FF00FF;
+			color: #B44AFE;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -1804,7 +1804,7 @@
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #2e3842;
-			color: #FF00FF;
+			color: #B44AFE;
 			content: '\f00c';
 		}
 
