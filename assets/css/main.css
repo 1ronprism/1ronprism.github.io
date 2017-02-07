@@ -3135,7 +3135,7 @@
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
 		transition: opacity 0.5s ease;
-		opacity: 1;
+		opacity: 0.5;
 		padding-top: 3em;
 	}
 
@@ -3162,7 +3162,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #4F2C7B;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
